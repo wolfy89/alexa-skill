@@ -1,0 +1,24 @@
+{
+  "name": "alexa",
+  "version": "1.0.0",
+  "description": "example of a customed alexa skill",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Aelia13/alexa-skill.git"
+  },
+  "author": "Sandy Giustino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aelia13/alexa-skill/issues"
+  },
+  "homepage": "https://github.com/Aelia13/alexa-skill#readme",
+  "dependencies": {
+    "ask-sdk-core": "^2.7.0",
+    "ask-sdk-model": "^1.22.0",
+    "aws-sdk": "^2.558.0"
+  }
+}
