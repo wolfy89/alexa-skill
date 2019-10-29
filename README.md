@@ -1,6 +1,6 @@
 # alexa-skill
 
-This is a description of a very basic customed skill for Alexa and what you have to change to make your own. 
+This is a description of a very basic customed skill for Alexa and what you have to do to make your own. 
 Mine is very simple, when I tell "Alexa c'est une bonne situation ça scribe ?", Alexa tells me the Otis monologue from the movie "Asterix Mission Cléopâtre" 
 
 I) Create an account on https://developer.amazon.com and log in 
